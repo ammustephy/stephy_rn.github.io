@@ -4,7 +4,7 @@ Hi, I'm **Stephy_RN** — a Flutter Developer passionate about crafting high-qua
 
 Results-driven Flutter Developer and Quality Assurance professional with a strong foundation in mobile app development, testing, and quality control. Proficient in building scalable, user-centric applications using Flutter and Dart, with expertise in REST API integration, Firebase, and state management (Provider, BLoC). Experienced in manual and automated testing (Selenium), bug reporting, and test case creation. Committed to delivering high-quality, efficient software solutions through continuous improvement and attention to detail.
 
-## Skills
+## <img width="20" height="20" alt="skill" src="https://github.com/user-attachments/assets/6453b2db-1875-4a53-afef-8a3dae8781a1" /> Skills
 
 * **Programming Languages** : Dart, Core Java, HTML
 * **Software Testing** : Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
@@ -18,7 +18,7 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 * **Other Tools** : MS Excel, MS Word, Power Edit, MathType
 
 
-## Experience
+## <img width="20" height="20" alt="laptop" src="https://github.com/user-attachments/assets/aed6b2ad-0a56-44d7-969c-16235a018d0d" /> Experience
 
 #### * **Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.** | June 2025 – Present
 
@@ -37,7 +37,8 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 * Received Employee of the Month (May 2023) for outstanding work.
 
 
-## Projects
+## <img width="20" height="20" alt="layers" src="https://github.com/user-attachments/assets/e171341d-04a3-4eb9-b70a-3d258f296aa4" />
+Projects
 
 #### * Kefi-Cura – Hospital Management App
 
