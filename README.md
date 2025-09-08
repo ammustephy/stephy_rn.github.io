@@ -1,12 +1,8 @@
-Hi, I'm Stephy — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
+Hi, I'm Stephy_RN — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
 
 ## About Me
 
-I am a results-driven Flutter Developer with a strong background in mobile app development and quality assurance.
-
-With experience in building scalable, user-centric applications using Flutter and Dart, I specialize in REST API integration, state management (Provider, BLoC, GetX), and Firebase.
-
-My journey began as a Quality Controller, where I developed a keen eye for detail and accuracy. Now, I focus on creating efficient, clean, and maintainable code to deliver apps that enhance user experiences.
+Results-driven Flutter Developer and Quality Assurance professional with a strong foundation in mobile app development, testing, and quality control. Proficient in building scalable, user-centric applications using Flutter and Dart, with expertise in REST API integration, Firebase, and state management (Provider, BLoC). Experienced in manual and automated testing (Selenium), bug reporting, and test case creation. Committed to delivering high-quality, efficient software solutions through continuous improvement and attention to detail.
 
 ## Skills
 
