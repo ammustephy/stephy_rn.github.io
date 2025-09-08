@@ -1,6 +1,6 @@
 Hi, I'm Stephy — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
 
-# About Me
+## About Me
 
 I am a results-driven Flutter Developer with a strong background in mobile app development and quality assurance.
 
@@ -8,9 +8,9 @@ With experience in building scalable, user-centric applications using Flutter an
 
 My journey began as a Quality Controller, where I developed a keen eye for detail and accuracy. Now, I focus on creating efficient, clean, and maintainable code to deliver apps that enhance user experiences.
 
-# Skills
+## Skills
 
-## Languages & Tools:
+### Languages & Tools:
 
 Dart, Core Java, HTML
 
@@ -18,7 +18,7 @@ Flutter, Android Studio, Visual Studio
 
 Git, GitHub
 
-## Mobile Development:
+### Mobile Development:
 
 REST API Integration
 
@@ -26,7 +26,7 @@ Firebase (Authentication, Firestore, Secure Storage)
 
 State Management: Provider, GetX, BLoC
 
-## Software Testing:
+### Software Testing:
 
 Manual Testing
 
@@ -34,13 +34,13 @@ Selenium WebDriver
 
 Bug Reporting & Test Case Creation
 
-## Methodologies & Architecture:
+### Methodologies & Architecture:
 
 SDLC, STLC
 
 Clean Architecture, MVC, MVVM
 
-# Experience
+## Experience
 
 Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.
 June 2025 – Present
@@ -61,38 +61,38 @@ Performed styling, quality assurance, and error resolution.
 Received Employee of the Month (May 2023) for outstanding work.
 
 
-# Projects
+## Projects
 
-1. Kefi-Cura – Hospital Management App
+### * Kefi-Cura – Hospital Management App
 
 Built the entire frontend using Flutter with responsive design.
 
 Implemented features like appointment booking, doctor listings, and patient records using REST APIs.
 
-2. Pegado Conspi – Teacher Attendance & Marks Entry App
+### * Pegado Conspi – Teacher Attendance & Marks Entry App
 
 Created a Flutter app for attendance and academic marks entry.
 
 Enabled real-time updates and seamless user experience via API integration.
 
 
-# Education
+## Education
 
 B.Tech in Computer Science – Kerala University
 CGPA: 7.0
 
-# Certifications
+## Certifications
 
-Flutter App Development (Feb 2024 – Aug 2024)
+### * Flutter App Development (Feb 2024 – Aug 2024)
 
-Software Testing Certification
+### * Software Testing Certification
 
-# Achievements
+## Achievements
 
 Employee of the Month – Aptara Learnings Pvt. Ltd. (May 2023)
 For excellence in XML quality assurance and process improvement.
 
-# Contact
+## Contact
 
 Phone: +91 7907761417
 
