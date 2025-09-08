@@ -92,7 +92,7 @@ March 2021 – June 2025
 
 ## Contact
 
-<img width="15" height="15" alt="phone-call" src="https://github.com/user-attachments/assets/c5750552-fe8c-4401-a8b1-883a324d6fd6" />
+<img width="15" height="15" alt="telephone" src="https://github.com/user-attachments/assets/7617fe8e-cb5c-4636-adee-f88c18f6aa36" />
 Phone: +91 7907761417
 
 <img width="15" height="15" alt="gmail" src="https://github.com/user-attachments/assets/06e9191a-4394-4c50-8abf-d3a71bcc8a26" />
@@ -101,6 +101,6 @@ Email: ammustephy.as@gmail.com
 <img width="15" height="15" alt="linkedin" src="https://github.com/user-attachments/assets/58abf41d-5afb-4bb6-b8a4-ddfb38644009" />
 LinkedIn:  https://www.linkedin.com/in/stephy-rn/
 
-<img width="15" height="15" alt="github" src="https://github.com/user-attachments/assets/17049db0-0e07-47ca-88e5-c34f8b588b94" />
+<img width="15" height="15" alt="github (1)" src="https://github.com/user-attachments/assets/1a5d2c28-755b-44ed-a73a-b6465aa1da64" />
 GitHub: https://github.com/ammustephy
 
