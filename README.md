@@ -1,7 +1,3 @@
-# Headline:
-
-"Building seamless mobile experiences with Flutter"
-
 # Subheadline:
 
 Hi, I'm Stephy — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
@@ -22,7 +18,7 @@ My journey began as a Quality Controller, where I developed a keen eye for detai
 
 # Skills
 
-Languages & Tools:
+## Languages & Tools:
 
 Dart, Core Java, HTML
 
@@ -30,7 +26,7 @@ Flutter, Android Studio, Visual Studio
 
 Git, GitHub
 
-Mobile Development:
+## Mobile Development:
 
 REST API Integration
 
@@ -38,7 +34,7 @@ Firebase (Authentication, Firestore, Secure Storage)
 
 State Management: Provider, GetX, BLoC
 
-Software Testing:
+## Software Testing:
 
 Manual Testing
 
@@ -46,7 +42,7 @@ Selenium WebDriver
 
 Bug Reporting & Test Case Creation
 
-Methodologies & Architecture:
+## Methodologies & Architecture:
 
 SDLC, STLC
 
