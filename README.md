@@ -93,7 +93,11 @@ March 2021 – June 2025
 ## Contact
 
 ✆ Phone: +91 7907761417
+
 ✉ Email: ammustephy.as@gmail.com
+
+<img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/58abf41d-5afb-4bb6-b8a4-ddfb38644009" />
 LinkedIn:  https://www.linkedin.com/in/stephy-rn/
+
 GitHub: https://github.com/ammustephy
 
