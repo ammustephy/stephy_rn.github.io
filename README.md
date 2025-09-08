@@ -18,7 +18,7 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 * **Other Tools** : MS Excel, MS Word, Power Edit, MathType
 
 
-## <img width="20" height="20" alt="laptop" src="https://github.com/user-attachments/assets/aed6b2ad-0a56-44d7-969c-16235a018d0d" /> Experience
+## <img width="25" height="25" alt="laptop" src="https://github.com/user-attachments/assets/aed6b2ad-0a56-44d7-969c-16235a018d0d" /> Experience
 
 #### * **Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.** | June 2025 – Present
 
@@ -37,8 +37,7 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 * Received Employee of the Month (May 2023) for outstanding work.
 
 
-## <img width="20" height="20" alt="layers" src="https://github.com/user-attachments/assets/e171341d-04a3-4eb9-b70a-3d258f296aa4" />
-Projects
+## <img width="25" height="25" alt="layers" src="https://github.com/user-attachments/assets/e171341d-04a3-4eb9-b70a-3d258f296aa4" /> Projects
 
 #### * Kefi-Cura – Hospital Management App
 
@@ -53,21 +52,21 @@ Projects
 * Enabled real-time updates and seamless user experience via API integration.
 
 
-## Education
+## <img width="20" height="20" alt="academic" src="https://github.com/user-attachments/assets/d796326e-46ff-4594-85b9-f938ea567f67" /> Education
 
 * B.Tech in Computer Science – Kerala University | CGPA: 7.0
 
-## Certifications
+## <img width="20" height="20" alt="legal" src="https://github.com/user-attachments/assets/78d20fac-7ecb-4d92-a458-627fce96e52c" /> Certifications
 
 * Flutter App Development (Feb 2024 – Aug 2024)
 
 * Software Testing
 
-## Achievements
+## <img width="20" height="20" alt="gold-medal" src="https://github.com/user-attachments/assets/095d4f41-50ec-4ba2-8417-6aecd7fbab12" /> Achievements
 
 * Employee of the Month – Aptara Learnings Pvt. Ltd. (May 2023) For excellence in XML quality assurance and process improvement.
 
-## Contact
+## <img width="20" height="20" alt="chat" src="https://github.com/user-attachments/assets/b5fd5554-b7ad-403e-a285-9564ebba7782" /> Contact Me
 
 <img width="15" height="15" alt="telephone" src="https://github.com/user-attachments/assets/7617fe8e-cb5c-4636-adee-f88c18f6aa36"/> +91 7907761417 
 <img width="15" height="15" alt="gmail" src="https://github.com/user-attachments/assets/06e9191a-4394-4c50-8abf-d3a71bcc8a26"/> ammustephy.as@gmail.com  
