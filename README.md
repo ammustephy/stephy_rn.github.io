@@ -10,35 +10,27 @@ My journey began as a Quality Controller, where I developed a keen eye for detai
 
 ## Skills
 
-### Languages & Tools:
-
+### Programming Languages: 
 Dart, Core Java, HTML
-
+### Software Testing: 
+Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
+### Mobile & Frontend Development: 
 Flutter, Android Studio, Visual Studio
-
-Git, GitHub
-
-### Mobile Development:
-
-REST API Integration
-
-Firebase (Authentication, Firestore, Secure Storage)
-
-State Management: Provider, GetX, BLoC
-
-### Software Testing:
-
-Manual Testing
-
-Selenium WebDriver
-
-Bug Reporting & Test Case Creation
-
-### Methodologies & Architecture:
-
-SDLC, STLC
-
+### Architectures & Design Patterns: 
 Clean Architecture, MVC, MVVM
+### State Management: 
+Provider, GetX, BLoC
+### Database & Storage: 
+SQLite, Firebase Firestore, Shared Preferences, Secure Storage
+### API & Networking: 
+REST API Integration, HTTP, Dio
+### Development Methodologies: 
+SDLC, STLC
+### Version Control: 
+Git, GitHub
+### Other Tools: 
+MS Excel, MS Word, Power Edit, MathType
+
 
 ## Experience
 
@@ -82,9 +74,9 @@ March 2021 – June 2025
 
 ## Certifications
 
-#### * Flutter App Development (Feb 2024 – Aug 2024)
+* Flutter App Development (Feb 2024 – Aug 2024)
 
-#### * Software Testing
+* Software Testing
 
 ## Achievements
 
