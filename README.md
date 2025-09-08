@@ -42,23 +42,23 @@ Clean Architecture, MVC, MVVM
 
 ## Experience
 
-Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.
+### * Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.
 June 2025 – Present
 
-Built responsive Flutter UIs with custom widgets.
+* Built responsive Flutter UIs with custom widgets.
 
-Integrated REST APIs for seamless backend communication.
+* Integrated REST APIs for seamless backend communication.
 
-Improved app performance and maintainability through clean architecture.
+* Improved app performance and maintainability through clean architecture.
 
-Quality Controller – Aptara Learnings Pvt. Ltd.
+### * Quality Controller – Aptara Learnings Pvt. Ltd.
 March 2021 – June 2025
 
-Converted documents from DOCX to XML with precision.
+* Converted documents from DOCX to XML with precision.
 
-Performed styling, quality assurance, and error resolution.
+* Performed styling, quality assurance, and error resolution.
 
-Received Employee of the Month (May 2023) for outstanding work.
+* Received Employee of the Month (May 2023) for outstanding work.
 
 
 ## Projects
