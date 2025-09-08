@@ -11,9 +11,9 @@ My journey began as a Quality Controller, where I developed a keen eye for detai
 ## Skills
 
 #### Programming Languages: 
-Dart, Core Java, HTML
+##### Dart, Core Java, HTML
 #### Software Testing: 
-Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
+##### Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
 #### Mobile & Frontend Development: 
 Flutter, Android Studio, Visual Studio
 #### Architectures & Design Patterns: 
