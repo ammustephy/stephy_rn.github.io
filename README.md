@@ -4,7 +4,7 @@ Hi, I'm **Stephy_RN** — a Flutter Developer passionate about crafting high-qua
 
 Results-driven Flutter Developer and Quality Assurance professional with a strong foundation in mobile app development, testing, and quality control. Proficient in building scalable, user-centric applications using Flutter and Dart, with expertise in REST API integration, Firebase, and state management (Provider, BLoC). Experienced in manual and automated testing (Selenium), bug reporting, and test case creation. Committed to delivering high-quality, efficient software solutions through continuous improvement and attention to detail.
 
-## <img width="20" height="20" alt="skill" src="https://github.com/user-attachments/assets/6453b2db-1875-4a53-afef-8a3dae8781a1" /> Skills
+## <img width="25" height="25" alt="skill" src="https://github.com/user-attachments/assets/6453b2db-1875-4a53-afef-8a3dae8781a1" /> Skills
 
 * **Programming Languages** : Dart, Core Java, HTML
 * **Software Testing** : Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
@@ -37,7 +37,7 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 * Received Employee of the Month (May 2023) for outstanding work.
 
 
-## <img width="25" height="25" alt="layers" src="https://github.com/user-attachments/assets/e171341d-04a3-4eb9-b70a-3d258f296aa4" /> Projects
+## <img width="22" height="22" alt="layers" src="https://github.com/user-attachments/assets/e171341d-04a3-4eb9-b70a-3d258f296aa4" /> Projects
 
 #### * Kefi-Cura – Hospital Management App
 
@@ -56,13 +56,13 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 
 * B.Tech in Computer Science – Kerala University | CGPA: 7.0
 
-## <img width="20" height="20" alt="legal" src="https://github.com/user-attachments/assets/78d20fac-7ecb-4d92-a458-627fce96e52c" /> Certifications
+## <img width="25" height="25" alt="award" src="https://github.com/user-attachments/assets/92270497-4673-45c3-b516-4839585a5dfc" /> Certifications
 
 * Flutter App Development (Feb 2024 – Aug 2024)
 
 * Software Testing
 
-## <img width="20" height="20" alt="gold-medal" src="https://github.com/user-attachments/assets/095d4f41-50ec-4ba2-8417-6aecd7fbab12" /> Achievements
+## <img width="25" height="25" alt="gold-medal" src="https://github.com/user-attachments/assets/095d4f41-50ec-4ba2-8417-6aecd7fbab12" /> Achievements
 
 * Employee of the Month – Aptara Learnings Pvt. Ltd. (May 2023) For excellence in XML quality assurance and process improvement.
 
