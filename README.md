@@ -1,6 +1,6 @@
 Hi, I'm **Stephy_RN** — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
 
-## <img width="15" height="15" alt="info" src="https://github.com/user-attachments/assets/5c8e444b-8577-4737-af3d-e6cd2acb0d70" /> About Me
+## <img width="20" height="20" alt="info" src="https://github.com/user-attachments/assets/5c8e444b-8577-4737-af3d-e6cd2acb0d70" /> About Me
 
 Results-driven Flutter Developer and Quality Assurance professional with a strong foundation in mobile app development, testing, and quality control. Proficient in building scalable, user-centric applications using Flutter and Dart, with expertise in REST API integration, Firebase, and state management (Provider, BLoC). Experienced in manual and automated testing (Selenium), bug reporting, and test case creation. Committed to delivering high-quality, efficient software solutions through continuous improvement and attention to detail.
 
