@@ -84,7 +84,7 @@ March 2021 – June 2025
 
 #### * Flutter App Development (Feb 2024 – Aug 2024)
 
-#### * Software Testing Certification
+#### * Software Testing
 
 ## Achievements
 
@@ -92,11 +92,8 @@ March 2021 – June 2025
 
 ## Contact
 
-Phone: +91 7907761417
-
-Email: ammustephy.as@gmail.com
-
+✆ Phone: +91 7907761417
+✉ Email: ammustephy.as@gmail.com
 LinkedIn:  https://www.linkedin.com/in/stephy-rn/
-
 GitHub: https://github.com/ammustephy
 
