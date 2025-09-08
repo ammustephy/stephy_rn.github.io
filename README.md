@@ -34,8 +34,7 @@ MS Excel, MS Word, Power Edit, MathType
 
 ## Experience
 
-#### * Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.
-June 2025 – Present
+#### * Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd. | June 2025 – Present
 
 * Built responsive Flutter UIs with custom widgets.
 
@@ -43,8 +42,7 @@ June 2025 – Present
 
 * Improved app performance and maintainability through clean architecture.
 
-#### * Quality Controller – Aptara Learnings Pvt. Ltd.
-March 2021 – June 2025
+#### * Quality Controller – Aptara Learnings Pvt. Ltd. | March 2021 – June 2025
 
 * Converted documents from DOCX to XML with precision.
 
