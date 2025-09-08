@@ -1,4 +1,4 @@
-Hi, I'm Stephy_RN — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
+Hi, I'm **Stephy_RN** — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
 
 ## About Me
 
@@ -6,21 +6,21 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 
 ## Skills
 
-* **Programming Languages**: Dart, Core Java, HTML
-* **Software Testing**: Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
-* **Mobile & Frontend Development**: Flutter, Android Studio, Visual Studio
-* **Architectures & Design Patterns**: Clean Architecture, MVC, MVVM
-* **State Management**: Provider, GetX, BLoC
-* **Database & Storage**: SQLite, Firebase Firestore, Shared Preferences, Secure Storage
-* **API & Networking**: REST API Integration, HTTP, Dio
-* **Development Methodologies**: SDLC, STLC
-* **Version Control**: Git, GitHub
-* **Other Tools**: MS Excel, MS Word, Power Edit, MathType
+* **Programming Languages** : Dart, Core Java, HTML
+* **Software Testing** : Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
+* **Mobile & Frontend Development** : Flutter, Android Studio, Visual Studio
+* **Architectures & Design Patterns** : Clean Architecture, MVC, MVVM
+* **State Management** : Provider, GetX, BLoC
+* **Database & Storage** : SQLite, Firebase Firestore, Shared Preferences, Secure Storage
+* **API & Networking** : REST API Integration, HTTP, Dio
+* **Development Methodologies** : SDLC, STLC
+* **Version Control** : Git, GitHub
+* **Other Tools** : MS Excel, MS Word, Power Edit, MathType
 
 
 ## Experience
 
-#### * Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd. | June 2025 – Present
+#### * **Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.** | June 2025 – Present
 
 * Built responsive Flutter UIs with custom widgets.
 
@@ -28,7 +28,7 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 
 * Improved app performance and maintainability through clean architecture.
 
-#### * Quality Controller – Aptara Learnings Pvt. Ltd. | March 2021 – June 2025
+#### * **Quality Controller – Aptara Learnings Pvt. Ltd.** | March 2021 – June 2025
 
 * Converted documents from DOCX to XML with precision.
 
