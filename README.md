@@ -42,7 +42,7 @@ Clean Architecture, MVC, MVVM
 
 ## Experience
 
-### * Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.
+#### * Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.
 June 2025 – Present
 
 * Built responsive Flutter UIs with custom widgets.
@@ -51,7 +51,7 @@ June 2025 – Present
 
 * Improved app performance and maintainability through clean architecture.
 
-### * Quality Controller – Aptara Learnings Pvt. Ltd.
+#### * Quality Controller – Aptara Learnings Pvt. Ltd.
 March 2021 – June 2025
 
 * Converted documents from DOCX to XML with precision.
@@ -63,34 +63,32 @@ March 2021 – June 2025
 
 ## Projects
 
-### * Kefi-Cura – Hospital Management App
+#### * Kefi-Cura – Hospital Management App
 
-Built the entire frontend using Flutter with responsive design.
+* Built the entire frontend using Flutter with responsive design.
 
-Implemented features like appointment booking, doctor listings, and patient records using REST APIs.
+* Implemented features like appointment booking, doctor listings, and patient records using REST APIs.
 
-### * Pegado Conspi – Teacher Attendance & Marks Entry App
+#### * Pegado Conspi – Teacher Attendance & Marks Entry App
 
-Created a Flutter app for attendance and academic marks entry.
+* Created a Flutter app for attendance and academic marks entry.
 
-Enabled real-time updates and seamless user experience via API integration.
+* Enabled real-time updates and seamless user experience via API integration.
 
 
 ## Education
 
-B.Tech in Computer Science – Kerala University
-CGPA: 7.0
+* B.Tech in Computer Science – Kerala University | CGPA: 7.0
 
 ## Certifications
 
-### * Flutter App Development (Feb 2024 – Aug 2024)
+#### * Flutter App Development (Feb 2024 – Aug 2024)
 
-### * Software Testing Certification
+#### * Software Testing Certification
 
 ## Achievements
 
-Employee of the Month – Aptara Learnings Pvt. Ltd. (May 2023)
-For excellence in XML quality assurance and process improvement.
+* Employee of the Month – Aptara Learnings Pvt. Ltd. (May 2023) For excellence in XML quality assurance and process improvement.
 
 ## Contact
 
