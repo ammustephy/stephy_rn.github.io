@@ -60,7 +60,7 @@ Results-driven Flutter Developer and Quality Assurance professional with a stron
 
 * Flutter App Development (Feb 2024 – Aug 2024)
 
-* Software Testing
+* Software Testing (2020)
 
 ## <img width="28" height="28" alt="gold-medal" src="https://github.com/user-attachments/assets/095d4f41-50ec-4ba2-8417-6aecd7fbab12" /> Achievements
 
