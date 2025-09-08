@@ -10,25 +10,25 @@ My journey began as a Quality Controller, where I developed a keen eye for detai
 
 ## Skills
 
-#### Programming Languages: 
-##### Dart, Core Java, HTML
-#### Software Testing: 
-##### Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
-#### Mobile & Frontend Development: 
+### Programming Languages: 
+Dart, Core Java, HTML
+### Software Testing: 
+Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
+### Mobile & Frontend Development: 
 Flutter, Android Studio, Visual Studio
-#### Architectures & Design Patterns: 
+### Architectures & Design Patterns: 
 Clean Architecture, MVC, MVVM
-#### State Management: 
+### State Management: 
 Provider, GetX, BLoC
-#### Database & Storage: 
+### Database & Storage: 
 SQLite, Firebase Firestore, Shared Preferences, Secure Storage
-#### API & Networking: 
+### API & Networking: 
 REST API Integration, HTTP, Dio
-#### Development Methodologies: 
+### Development Methodologies: 
 SDLC, STLC
-#### Version Control: 
+### Version Control: 
 Git, GitHub
-#### Other Tools: 
+### Other Tools: 
 MS Excel, MS Word, Power Edit, MathType
 
 
