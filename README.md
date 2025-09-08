@@ -1,12 +1,4 @@
-# Subheadline:
-
 Hi, I'm Stephy — a Flutter Developer passionate about crafting high-quality, user-friendly mobile applications.
-
-# Call-to-Action:
-
-View My Projects
-
-Contact Me
 
 # About Me
 
