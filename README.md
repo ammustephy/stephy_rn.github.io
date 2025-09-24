@@ -1,75 +1,119 @@
-Hi, I'm **Stephy_RN** — a Flutter Developer, passionate about crafting high-quality user-friendly mobile applications.
+/* Dark theme by default */
+:root {
+    --bg-color: #121212;
+    --text-color: #e0e0e0;
+    --accent-color: #64b5f6; /* Blue for links/buttons */
+    --card-bg: #1e1e1e;
+    --border-color: #333;
+}
 
-## <img width="20" height="20" alt="info" src="https://github.com/user-attachments/assets/5c8e444b-8577-4737-af3d-e6cd2acb0d70" /> About Me
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg-color: #ffffff;
+        --text-color: #333333;
+        --accent-color: #1976d2;
+        --card-bg: #f5f5f5;
+        --border-color: #ddd;
+    }
+}
 
-Results-driven Flutter Developer and Quality Assurance professional with a strong foundation in mobile app development, testing, and quality control. Proficient in building scalable, user-centric applications using Flutter and Dart, with expertise in REST API integration, Firebase, and state management (Provider, BLoC). Experienced in manual and automated testing (Selenium), bug reporting, and test case creation. Committed to delivering high-quality, efficient software solutions through continuous improvement and attention to detail.
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
 
-## <img width="25" height="25" alt="skill" src="https://github.com/user-attachments/assets/6453b2db-1875-4a53-afef-8a3dae8781a1" /> Skills
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
-* **Programming Languages** : Dart, Core Java, HTML
-* **Software Testing** : Manual Testing, Selenium WebDriver, Test Case Creation, Bug Reporting
-* **Mobile & Frontend Development** : Flutter, Android Studio, Visual Studio
-* **Architectures & Design Patterns** : Clean Architecture, MVC, MVVM
-* **State Management** : Provider, GetX, BLoC
-* **Database & Storage** : SQLite, Firebase Firestore, Shared Preferences, Secure Storage
-* **API & Networking** : REST API Integration, HTTP, Dio
-* **Development Methodologies** : SDLC, STLC
-* **Version Control** : Git, GitHub
-* **Other Tools** : MS Excel, MS Word, Power Edit, MathType
+header {
+    background-color: var(--card-bg);
+    text-align: center;
+    padding: 40px 20px;
+}
 
+h1, h2, h3 {
+    color: var(--accent-color);
+}
 
-## <img width="28" height="28" alt="laptop" src="https://github.com/user-attachments/assets/aed6b2ad-0a56-44d7-969c-16235a018d0d" /> Experience
+section {
+    margin-bottom: 40px;
+}
 
-#### * **Junior Flutter Developer – Kefi Tech Solutions Pvt. Ltd.** | June 2025 – Present
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
 
-* Built responsive Flutter UIs with custom widgets.
+.experience-item {
+    margin-bottom: 20px;
+}
 
-* Integrated REST APIs for seamless backend communication.
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
 
-* Improved app performance and maintainability through clean architecture.
+.project-card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
 
-#### * **Quality Controller – Aptara Learnings Pvt. Ltd.** | March 2021 – June 2025
+.project-card:hover {
+    transform: translateY(-5px);
+}
 
-* Converted documents from DOCX to XML with precision.
+.project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
 
-* Performed styling, quality assurance, and error resolution.
+.btn {
+    display: inline-block;
+    background-color: var(--accent-color);
+    color: var(--bg-color);
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
 
-* Received Employee of the Month (May 2023) for outstanding work.
+.btn:hover {
+    background-color: darken(var(--accent-color), 10%);
+}
 
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: var(--card-bg);
+    border-top: 1px solid var(--border-color);
+}
 
-## <img width="22" height="22" alt="layers" src="https://github.com/user-attachments/assets/e171341d-04a3-4eb9-b70a-3d258f296aa4" /> Projects
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
 
-#### * Kefi-Cura – Hospital Management App
+a:hover {
+    text-decoration: underline;
+}
 
-* Built the entire frontend using Flutter with responsive design.
-
-* Implemented features like appointment booking, doctor listings, and patient records using REST APIs.
-
-#### * Pegado Conspi – Teacher Attendance & Marks Entry App
-
-* Created a Flutter app for attendance and academic marks entry.
-
-* Enabled real-time updates and seamless user experience via API integration.
-
-
-## <img width="25" height="25" alt="academic" src="https://github.com/user-attachments/assets/d796326e-46ff-4594-85b9-f938ea567f67" /> Education
-
-* B.Tech in Computer Science – Kerala University | CGPA: 7.0
-
-## <img width="25" height="25" alt="award" src="https://github.com/user-attachments/assets/92270497-4673-45c3-b516-4839585a5dfc" /> Certifications
-
-* Flutter App Development (Feb 2024 – Aug 2024)
-
-* Software Testing (2020)
-
-## <img width="28" height="28" alt="gold-medal" src="https://github.com/user-attachments/assets/095d4f41-50ec-4ba2-8417-6aecd7fbab12" /> Achievements
-
-* Employee of the Month – Aptara Learnings Pvt. Ltd. (May 2023) For excellence in XML quality assurance and process improvement.
-
-## <img width="25" height="25" alt="chat" src="https://github.com/user-attachments/assets/b5fd5554-b7ad-403e-a285-9564ebba7782" /> Contact Me
-
-<img width="15" height="15" alt="telephone" src="https://github.com/user-attachments/assets/7617fe8e-cb5c-4636-adee-f88c18f6aa36"/> +91 7907761417  
-<img width="15" height="15" alt="gmail" src="https://github.com/user-attachments/assets/06e9191a-4394-4c50-8abf-d3a71bcc8a26"/> ammustephy.as@gmail.com  
-<img width="16" height="16" alt="linkedin" src="https://github.com/user-attachments/assets/58abf41d-5afb-4bb6-b8a4-ddfb38644009"/> https://www.linkedin.com/in/stephy-rn/  
-<img width="15" height="15" alt="github (1)" src="https://github.com/user-attachments/assets/1a5d2c28-755b-44ed-a73a-b6465aa1da64"/> https://github.com/ammustephy
-
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
